@@ -1,0 +1,62 @@
+body {
+  padding-top: 70px;
+  font-family: 'Open Sans', sans-serif;
+}
+h2 {
+  padding-top: 60px;
+}
+h1,
+h3 {
+  text-align: center;
+}
+body a {
+  color: #68a;
+  text-decoration: none;
+}
+body a:hover {
+  color: #74a1cf;
+  text-decoration: none;
+}
+nav {
+  background-color: #f9f9f9;
+}
+.navbar-toggle {
+  border-color: #68a;
+}
+.icon-bar {
+  background-color: #68a;
+}
+.exp-date {
+  margin-left: 15px;
+  font-style: italic;
+  color: #68a;
+}
+.exp-desc {
+  margin-left: 15px;
+}
+.form-container {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 420px;
+  margin-left: auto;
+  margin-right: auto;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 14px;
+}
+.form-container input {
+  width: 400px;
+  margin-top: 2px;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  display: block;
+}
+.form-container textarea {
+  width: 400px;
+  height: 150px;
+  margin-top: 2px;
+}
+#footer {
+  text-align: center;
+  padding-top: 60px;
+}
