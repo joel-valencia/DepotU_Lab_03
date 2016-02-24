@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'Resume';
+  font-weight: normal;
+  src: url("Resume.ttf") format("truetype");
+}
 body {
   padding-top: 70px;
   font-family: 'Open Sans', sans-serif;
@@ -8,6 +13,9 @@ h2 {
 h1,
 h3 {
   text-align: center;
+}
+p {
+  padding-bottom: 15px;
 }
 body a {
   color: #68a;
@@ -59,4 +67,8 @@ nav {
 #footer {
   text-align: center;
   padding-top: 60px;
+}
+#footer .font-stuff {
+  font-family: "Resume", sans-serif;
+  font-size: 25px;
 }
