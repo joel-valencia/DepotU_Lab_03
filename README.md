@@ -1,3 +1,5 @@
+http://joel-valencia.github.io/DepotU_Lab_03/
+
 ### Instructions
 
 [Bootstrap](http://getbootstrap.com/) is a popular responsive design framework with it's [grid system](http://getbootstrap.com/css/#grid) making mobile first development fast and easy.
